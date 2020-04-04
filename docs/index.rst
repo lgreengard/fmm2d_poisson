@@ -8,7 +8,6 @@ FMM2D_POISSON: A fast, direct, adaptive Poisson solver
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
 
